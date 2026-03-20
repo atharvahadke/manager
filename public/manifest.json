@@ -1,6 +1,6 @@
 {
-  "name": "My Life",
-  "short_name": "life archiver",
+  "name": "app manager",
+  "short_name": "app manager",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
